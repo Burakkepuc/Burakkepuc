@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with the ones who knows about programming
 - 💬 Ask me about anything
 
-###How to reach me
+### How to reach me
 
 - 📡 [Linkedln](https://www.linkedin.com/in/burakkepuc/)
